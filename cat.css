@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    padding: 10px;
+    
+}
+img {
+    border:  #6360ff  4px dotted;
+    margin: 30px;
+}
+p {
+    text-align: end;
+    margin: 20px;
+    font-size: 2rem;
+    
+}
+h1 {
+    font-size: 4rem;
+    
+}
+.link:hover {
+    border: white solid 4px;
+}
+.blue {
+    color:  #6abff3;
+}
